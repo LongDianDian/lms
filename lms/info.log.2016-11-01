@@ -1,0 +1,6 @@
+[2016-11-01 20:50:50,106] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring-mvc'
+[2016-11-01 20:58:08,641] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring-mvc'
+[2016-11-01 20:59:06,756] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring-mvc'
+[2016-11-01 20:59:48,765] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring-mvc'
+[2016-11-01 21:00:31,982] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring-mvc'
+[2016-11-01 21:02:58,747] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring-mvc'

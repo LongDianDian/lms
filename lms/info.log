@@ -1,0 +1,7 @@
+[2017-02-26 10:37:41,983] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring-mvc'
+[2017-02-26 10:57:54,411] WARN  (SqlExceptionHelper.java:145) - SQL Error: 1054, SQLState: 42S22
+[2017-02-26 10:57:54,416] ERROR (SqlExceptionHelper.java:147) - Unknown column 'this_.kind' in 'field list'
+[2017-02-26 10:57:54,556] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring-mvc'
+[2017-02-26 10:58:44,835] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring-mvc'
+[2017-02-26 10:58:57,435] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring-mvc'
+[2017-02-26 11:02:01,686] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring-mvc'

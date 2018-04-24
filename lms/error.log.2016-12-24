@@ -1,0 +1,2 @@
+[2016-12-24 22:28:39,561] ERROR (SqlExceptionHelper.java:147) - Unknown column 'this_.disabled' in 'field list'
+[2016-12-24 22:28:47,762] ERROR (SqlExceptionHelper.java:147) - Unknown column 'this_.disabled' in 'field list'

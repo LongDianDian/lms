@@ -1,0 +1,2 @@
+[2016-11-04 15:45:32,961] ERROR (SqlExceptionHelper.java:147) - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) order by this_.createtime desc' at line 1
+[2016-11-04 15:46:17,484] ERROR (SqlExceptionHelper.java:147) - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) order by this_.createtime desc' at line 1

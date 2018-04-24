@@ -1,0 +1,6 @@
+[2016-12-25 17:15:00,662] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring-mvc'
+[2016-12-25 17:16:00,513] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/lms/longin/editPassword] in DispatcherServlet with name 'spring-mvc'
+[2016-12-25 17:16:34,112] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/lms/longin/editPassword] in DispatcherServlet with name 'spring-mvc'
+[2016-12-25 17:17:55,972] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/lms/longin/editPassword] in DispatcherServlet with name 'spring-mvc'
+[2016-12-25 17:18:38,711] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/lms/book/index.js.map] in DispatcherServlet with name 'spring-mvc'
+[2016-12-25 17:18:58,569] WARN  (DispatcherServlet.java:1118) - No mapping found for HTTP request with URI [/lms/index.js.map] in DispatcherServlet with name 'spring-mvc'
